@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.edo-img {
+    padding: 30px 18px;
+    background-color: #f2f3fe;
+}
+
+.start{
+    background-color: blue;
+    border: none;
+}
+
+.solution{
+    padding-left: 30px;
+}
+
+.demo{
+    padding-right: 50px;
+}
+
+.but{
+    background-color: #1b1642;
+    color: white;
+}
+
+.you{
+    color: grey;
+    background-color: #d0d8fc;
+    font-size: 15px;
+    width: 200px;
+    height: 30px;
+    border: none;
+}
+
+.school{
+    color: grey;
+}
+
+.free{
+    color: #1b1642;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    width: 200px;
+}
+
+.pla-demo{
+    color: #1b1642;
+    background-color: white;
+    padding: 10px;
+    border: none;
+    margin-right: 20px;
+
+}
+
+.header{
+    width: 650px;
+    height: 600px;
+}
+
+.smart{
+    color: #1b1642;
+}
+
+.here{
+    background-color: #f2f3fe;
+    padding: 75px 100px;
+}
+
+.manag{
+color: #1b1642;
+font-weight: 800;
+}
+
+.rome{
+    padding: 70px 350px;
+    align-items: center;
+}
+
+.not{
+    color: #1b1642;
+    text-align: center;
+}
+
+.more{
+    color: #1b1642;
+    font-weight: 400;
+    text-align: center;
+}
+
+.we{
+    text-align: center;
+}
